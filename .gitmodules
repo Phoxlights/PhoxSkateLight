@@ -1,0 +1,9 @@
+[submodule "libs/PhoxAnimate"]
+	path = libs/PhoxAnimate
+	url = https://github.com/Phoxlights/PhoxAnimate.git
+[submodule "libs/PhoxCore"]
+	path = libs/PhoxCore
+	url = https://github.com/Phoxlights/PhoxCore.git
+[submodule "libs/Adafruit_NeoPixel"]
+	path = libs/Adafruit_NeoPixel
+	url = https://github.com/adafruit/Adafruit_NeoPixel.git
